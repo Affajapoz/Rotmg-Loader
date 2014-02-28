@@ -26,6 +26,6 @@ Set WshShell = WScript.CreateObject("WScript.Shell")
 'Realtime will make your computer so slow while playing realm I wouldn't recomend it.
 'If you need to change the setting because your computer lags on high I would recomend /Normal.
 '*************************************************************
-Return = WshShell.Run("cmd /C start /High flashplayer_11_sa.exe http://www.realmofthemadgod.com/AGCLoader" & xmlOutput & ".swf", 0, true)
+Return = WshShell.Run("cmd /C start /High flashplayer_12_sa.exe http://www.realmofthemadgod.com/AGCLoader" & xmlOutput & ".swf", 0, true)
 Set WshShell = Nothing
 WScript.Quit(0)
