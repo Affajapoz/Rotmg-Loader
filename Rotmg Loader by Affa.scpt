@@ -12,7 +12,7 @@
 --Please share this script all you want, if you want. Post it on the forums(I don't have an account) or reddit(no account as well).
 --*************************************************************
 
-set urll to "http://www.realmofthemadgod.com/AGCLoader"
+set urll to "https://realmofthemadgodhrd.appspot.com/AssembleeGameClient"
 set num to (do shell script "curl http://www.realmofthemadgod.com/version.txt")
 set swf to ".swf"
 set full_url to urll & num & swf
