@@ -27,6 +27,6 @@ Set WshShell = WScript.CreateObject("WScript.Shell")
 'If you need to change the setting because your computer lags on high I would recomend /Normal.
 '*************************************************************
 'Return = WshShell.Run("cmd /C start /High flashplayer_19_sa.exe http://www.realmofthemadgod.com/AGCLoader" & xmlOutput & ".swf", 0, true)
-Return = WshShell.Run("cmd /C start /High flashplayer_19_sa.exe https://realmofthemadgodhrd.appspot.com/AssembleeGameClient" & xmlOutput & ".swf", 0, true)
+Return = WshShell.Run("cmd /C start /High flashplayer_20_sa.exe https://realmofthemadgodhrd.appspot.com/AssembleeGameClient" & xmlOutput & ".swf", 0, true)
 Set WshShell = Nothing
 WScript.Quit(0)
