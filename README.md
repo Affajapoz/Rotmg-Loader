@@ -1,4 +1,4 @@
-Rotmg-Loader-by-Affa
+Rotmg-Loader-by-Affa [deprecated]
 ====================
 
 Scripts to get the new AGCLoader from the website and run Flash Projector.
